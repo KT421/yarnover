@@ -15,6 +15,7 @@ The goal of yarnover is to provide functions to help generate crochet patterns f
 - 3D shapes
   - Sphere
   - Ellipsoid
+  - Cone
   - Separate determiners for upper and lower half
   
 - Shiny App
@@ -31,7 +32,7 @@ The goal of yarnover is to provide functions to help generate crochet patterns f
 
 Because I make amigurumi for my children and I am getting odd requests that require the formulation of my own patterns, and there's a limit to what I can freehand. 
 
-## What about other shapes?
+## What about other shapes? 
 
 I dunno. If I haven't needed it, I haven't written it. If you have an idea, you're welcome to make a pull request and add something.
 
@@ -45,5 +46,5 @@ Because it's the only programming language I know, so it's my hammer and this is
 
 # Technical TO DO
 
-- Tip my toe into R objects to create a `pattern` object? 
+- Dip my toe into R objects to create a `pattern` object? 
 - Initial pass is very rigid and only works for established primitives and known formulas. Add actual math to support more complex shapes?
